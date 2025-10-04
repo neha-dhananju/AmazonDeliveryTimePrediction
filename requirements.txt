@@ -13,3 +13,5 @@ matplotlib
 mlflow
 
 streamlit
+
+plotly
